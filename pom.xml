@@ -48,6 +48,7 @@
 				  <workers>1</workers>
 				  <uri>https://anypoint.mulesoft.com</uri>;
 				  <applicationName>app-sample</applicationName>
+				  <objectStoreV2>true</objectStoreV2> 
 				 </cloudHubDeployment>
 				</configuration>
 				<executions>
